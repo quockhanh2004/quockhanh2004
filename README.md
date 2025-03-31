@@ -2,21 +2,19 @@
 
 ## 🚀 About Me
 - 🔭 I'm currently working on awesome projects.
-- 🌱 I’m currently learning **Flutter, BLE, and MongoDB**.
-- 💬 Ask me about **Android development, Flutter, and backend design**.
-- 📫 How to reach me: [quockhanh2004@example.com](mailto:quockhanh2004@example.com).
+- 🌱 I’m currently learning **Flutter, React Native, and NestJS**.
+- 💬 Ask me about **Android development, Flutter, React Native**.
+- 📫 How to reach me: [phamngocquockhanh2004@gmail.com](mailto:phamngocquockhanh2004@gmail.com).
 
 ## 📊 GitHub Stats
 ![Quoc Khanh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quockhanh2004&show_icons=true&theme=radical)
 
 ## 🛠 Tech Stack
-- 💻 **Languages**: Java, Dart, JavaScript, Python
-- 🏗 **Frameworks & Libraries**: Flutter, React Native, Bloc, Dio
-- 🛢 **Databases**: MongoDB, SQLite
+- 💻 **Languages**: Java, Dart, JavaScript, TypeScript, Python, Kotlin
+- 🏗 **Frameworks & Libraries**: Flutter, React Native, Android Native
 - 🔧 **Tools**: Git, Fish Shell, Manjaro Linux, Virt-Manager
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/quockhanh2004/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/quockhanh2004)  
+[![Facebook](https://shields.io/badge/Facebook-Ph%E1%BA%A1m%20Ng%E1%BB%8Dc%20Qu%E1%BB%91c%20Kh%C3%A1nh-blue?logo=facebook&style=plastic)](https://facebook.com/pnqkhanh29204)  
 
 Thanks for visiting! 😊
