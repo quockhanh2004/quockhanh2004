@@ -8,10 +8,11 @@
 
 ## 📊 GitHub Stats
 ![Quoc Khanh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quockhanh2004&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=quockhanh2004)](https://git.io/streak-stats)
 
 ## 🛠 Tech Stack
 - 💻 **Languages**: Java, Dart, JavaScript, TypeScript, Python, Kotlin
-- 🏗 **Frameworks & Libraries**: Flutter, React Native, Android Native
+- 🏗 **Frameworks & Libraries**: Flutter, React Native, Android Native, NestJS
 - 🔧 **Tools**: Git, Fish Shell, Linux
 
 ## 🔗 Connect with Me
