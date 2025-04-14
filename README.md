@@ -1,7 +1,7 @@
 # Hi there, I'm Quoc Khanh! 👋
 
 ## 🚀 About Me
-- 🔭 I'm currently working on awesome projects.
+- 🔭 I'm currently working on [Locket Upload React Native](https://github.com/quockhanh2004/locket_upload_react_native).
 - 🌱 I’m currently learning **Flutter, React Native, and NestJS**.
 - 💬 Ask me about **Android development, Flutter, React Native**.
 - 📫 How to reach me: [phamngocquockhanh2004@gmail.com](mailto:phamngocquockhanh2004@gmail.com).
